@@ -1,0 +1,11 @@
+{
+    "name": "ShowRoom",
+    "alias": "showroom",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\ShowRoom\\App\\Providers\\ShowRoomServiceProvider"
+    ],
+    "files": []
+}
